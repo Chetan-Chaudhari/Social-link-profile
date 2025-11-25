@@ -14,7 +14,7 @@ Example: ./result.png
 
 Solution URL: https://github.com/Chetan-Chaudhari/Social-link-profile
 
-Live Site URL: (Add your live demo link here)
+Live Site URL: https://chetan-chaudhari.github.io/Social-link-profile/
 
 🧰 Built With
 
